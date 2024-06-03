@@ -3,7 +3,9 @@ Analyzing the sentiments on social media posts.
 SENTIMENT ANALYSIS is a Natural Lanaguage Processing technique used to determine wheather data is positive, negative or neutral.
 It is often performed on textual data to help businesses monitor brands and product sentiment in customer feedback and also to understand customer needs.
 Sentiment Analysis is extremely useful in social media monitoring as it allows us to gain an overview of the wider public opinion behind certain topics.
+
 THE SOCIALSENT - THE ANALYZER takeaways.
+
 scraping the data from the social media platform and the websites.
 here, in this project the data that is used is from the platform twitter.
 craeating the developer API on the twitter for the access of the data
