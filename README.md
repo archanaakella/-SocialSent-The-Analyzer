@@ -13,7 +13,7 @@ Textblob is the python library for processing textual data.
 how regular expressions are used in text analysis.
 how to clean the textual data.
 
-LIBRARIES 
+LIBRARIES                                                                                                                      
 PANDAS for dataframe manipulations
 MATPLOTLIB for data visualization.
 NLTK and TEXTBLOB for text analysis
@@ -21,3 +21,8 @@ Re for regular expressions
 TWEEPY for extracting tweets from twitter API.
 TWEEPY is a python library for accessing the twitter API. and it is great for simple automation and creative twitter bots.
 Tweepy has many features such as creating and deleting tweets , follow and unfollow users etc.
+
+TWITTER SENTIMENTS.
+
+basically twitter sentiments helps in identifying what is being talked about us or our product in the social media and the twitter sentiment analysis helps in keeping track of these comments made by people, so that we can detect and identify angry customers or negative mentions before they can escalate.
+therefore, twitter sentiments can help us by showing us the mood/emotions of the people we're connected with across the globe and by analyzing these twitter sentiments one can avoid misunderstanding or recify their mistakes or even lead help in some cases so hense, we can say that twitter sentiment analysis is a machine learning tool that can help keep track of our tweets.
